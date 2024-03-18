@@ -10,10 +10,10 @@ Este repositório serve como meu portfólio profissional, destacando projetos se
 
 ## Projetos em Destaque
 
-### Projeto 1: I will do
+### Projeto 1: Análise de Dados de Banco de Dados Usando Inteligência Artificial
 
-- **Descrição**: Uma descrição curta do que o projeto faz Exemplo, "Um aplicativo web interativo para gerenciamento de tarefas pessoais."
-- **Tecnologias**: As principais tecnologias empregadas no projeto. Postgres, pgadmin, docker, terraform
+- **Descrição**: Este projeto visa demonstrar o poder da Inteligência Artificial para análise de dados usando a linguagem natural, ou seja, nosso idioma
+- **Tecnologias**: Postgres, pgadmin, docker, terraform, langchain, openai
 - **[Link para o repositorio](URL do repositório do projeto)**
 
 ## Habilidades
